@@ -3,8 +3,8 @@ let cenario = "menu";
 let imgCampo, imgCidade;
 
 function preload() {
-  imgCampo = loadImage('https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Wheat_field_in_Saint_Pal_de_Mons%2C_France.jpg/640px-Wheat_field_in_Saint_Pal_de_Mons%2C_France.jpg');
-  imgCidade = loadImage('https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Curitiba_downtown.jpg/640px-Curitiba_downtown.jpg');
+  imgCampo = loadImage('campo.jpg');
+  imgCidade = loadImage('cidade.jpg');
 }
 
 function setup() {
